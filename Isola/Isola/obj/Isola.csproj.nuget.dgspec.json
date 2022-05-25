@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edautov\\Documents\\Projects\\Isola\\Isola\\Isola\\Isola.csproj": {}
+    "C:\\Users\\Dani\\Documents\\Isola\\Isola\\Isola\\Isola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edautov\\Documents\\Projects\\Isola\\Isola\\Isola\\Isola.csproj": {
+    "C:\\Users\\Dani\\Documents\\Isola\\Isola\\Isola\\Isola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edautov\\Documents\\Projects\\Isola\\Isola\\Isola\\Isola.csproj",
+        "projectUniqueName": "C:\\Users\\Dani\\Documents\\Isola\\Isola\\Isola\\Isola.csproj",
         "projectName": "Isola",
-        "projectPath": "C:\\Users\\edautov\\Documents\\Projects\\Isola\\Isola\\Isola\\Isola.csproj",
-        "packagesPath": "C:\\Users\\edautov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edautov\\Documents\\Projects\\Isola\\Isola\\Isola\\obj\\",
+        "projectPath": "C:\\Users\\Dani\\Documents\\Isola\\Isola\\Isola\\Isola.csproj",
+        "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dani\\Documents\\Isola\\Isola\\Isola\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\edautov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -69,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
