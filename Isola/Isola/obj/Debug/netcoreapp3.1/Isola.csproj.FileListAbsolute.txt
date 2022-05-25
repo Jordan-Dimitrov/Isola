@@ -22,3 +22,4 @@ C:\Users\edautov\Documents\Projects\Isola\Isola\Isola\obj\Debug\netcoreapp3.1\Is
 C:\Users\edautov\Documents\Projects\Isola\Isola\Isola\obj\Debug\netcoreapp3.1\Isola.dll
 C:\Users\edautov\Documents\Projects\Isola\Isola\Isola\obj\Debug\netcoreapp3.1\Isola.pdb
 C:\Users\edautov\Documents\Projects\Isola\Isola\Isola\obj\Debug\netcoreapp3.1\Isola.genruntimeconfig.cache
+C:\Users\edautov\Documents\Projects\Isola\Isola\Isola\bin\Debug\netcoreapp3.1\Content\Arial.xnb
