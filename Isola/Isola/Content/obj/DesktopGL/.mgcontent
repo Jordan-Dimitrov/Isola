@@ -6,8 +6,10 @@
   <SourceFiles>
     <File>C:/Users/Martin/Downloads/Isola/Isola/Isola/Content/circle.png</File>
     <File>C:/Users/Martin/Downloads/Isola/Isola/Isola/Content/circleLight.png</File>
+    <File>C:/Users/Martin/Downloads/Isola/Isola/Isola/Content/Arial.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
