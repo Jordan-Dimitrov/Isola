@@ -9,14 +9,14 @@ namespace Isola
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         private bool _gameStatus;
-        private bool begins;
+        private bool begins = true;
         private bool Player1Wins;
         private bool Player2Wins;
         private SpriteFont _font;
         private string gameState;
         public Game1()
         {
-            _spriteBatch = new SpriteBatch(GraphicsDevice);
+            
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
@@ -38,7 +38,6 @@ namespace Isola
 
         protected override void Update(GameTime gameTime)
         {
-            begins = true;
             if (Keyboard.GetState().IsKeyDown(Keys.Space))
             {
                 begins = false;
@@ -61,8 +60,8 @@ namespace Isola
             if (begins==true)
             {
                 Vector2 textSize = _font.MeasureString("Press space to continue");
-                Vector2 textPos = new Vector2(Window.ClientBounds.Width / 2, Window.ClientBounds.Height / 2);
-                _spriteBatch.DrawString(_font, $"Press space to continue", textPos, Color.White);
+                Vector2 textPos = new Vector2(Window.ClientBounds.Width / 2-100, Window.ClientBounds.Height / 2-50);
+                _spriteBatch.DrawString(_font, $"Press space to start playing", textPos, Color.White);
             }
             else
             {
