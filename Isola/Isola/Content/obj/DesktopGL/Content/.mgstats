@@ -1,3 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Martin/Downloads/Isola/Isola/Isola/Content/Arial.spritefont","C:/Users/Martin/Downloads/Isola/Isola/Isola/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37922,0.1852551
 "C:/Users/Martin/Downloads/Isola/Isola/Isola/Content/circle.png","C:/Users/Martin/Downloads/Isola/Isola/Isola/Content/bin/DesktopGL/Content/circle.xnb","TextureProcessor","Texture2DContent",22650,6420565,0.2631919
 "C:/Users/Martin/Downloads/Isola/Isola/Isola/Content/circleLight.png","C:/Users/Martin/Downloads/Isola/Isola/Isola/Content/bin/DesktopGL/Content/circleLight.xnb","TextureProcessor","Texture2DContent",27362,6420565,0.1938667
